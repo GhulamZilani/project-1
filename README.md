@@ -1,2 +1,2 @@
 # project-1
- digit clock & simple calculater
+ digital clock & simple calculater
